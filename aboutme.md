@@ -2,6 +2,7 @@
 layout: page
 title: Giới thiệu về tôi
 subtitle: Công ty Võ Thịnh Gia xin gửi lời cảm ơn sâu sắc đến Quý khách hàng đã và đang quan tâm, tin tưởng sử dụng các dịch vụ thiết kế và xây dựng nhà uy tín của Chúng tôi.
+---
 Xin kính chúc Quý khách hàng có một cuộc sống viên mãn và thật nhiều tài lộc!
 Công ty Võ Thịnh Gia được thành lập bởi đội ngũ kiến trúc sư, kỹ sư, họa viên kiến trúc nhiệt huyết và tận tâm với nhiều năm kinh nghiệm trong lĩnh vực thiết kế kiến trúc, thiết kế nội thất, thi công xây dựng nhà và các công trình dân dụng công nghiệp khác. Chính vì lẽ đó, chúng tôi đã vạch ra cho mình rất rõ ràng về:
 Sứ mạng của Công ty
