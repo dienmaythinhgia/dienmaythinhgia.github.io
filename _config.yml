@@ -68,20 +68,20 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
+  email: "vothinhgia@gmail.com"
+  facebook: votrunghankts
+  github: dienmaythinhgia
   twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  xing: votrunghan
+  stackoverflow: "3943160/dienmaythinhgia"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+  telephone: +84979560766
+  #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 
@@ -98,13 +98,13 @@ url-pretty: "dienmaythinhgia.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "dien may, dien may thinh gia, điện máy thịnh gia"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "dien may, dien may thinh gia, điện máy thịnh gia"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "dien may, dien may thinh gia, điện máy thịnh gia"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -223,7 +223,7 @@ prose:
         field:
           element: "textarea"
           label: "Subtitle"
-          placeholder: "A description of your post."
+          placeholder: "Trung Tâm Điện Máy Thịnh Gia, Trung Tam Điện Máy, Điện máy giá rẻ." # "A description of your post."
           alterable: true
       - name: "date"
         field:
